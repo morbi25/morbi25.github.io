@@ -1,2 +1,2 @@
 # morbi25.github.io
-Research Profile of Nils Morbitzer
+Personal research profile, publications, and academic work.
